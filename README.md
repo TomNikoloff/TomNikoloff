@@ -1,61 +1,86 @@
-<!-- Intro  -->
+<!-- Intro -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://tomnikoloff.github.io/">Thomas Nikoloff</a></b>
-        </samp>
+  <samp>&gt; Hey there! I’m <b><a target="_blank" href="https://tomnikoloff.github.io/">Thomas Nikoloff</a></b></samp>
 </h3>
 
-<p align="center"> 
+<p align="center">
   <samp>
     「 A design-minded Web Developer focused on building beautiful interfaces & experiences. 」
-    <br>
-    <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://tomnikoloff.github.io/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
+  <a href="https://tomnikoloff.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:tomnikoloff@hotmail.co.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/thomas-nikoloff/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<!-- About Section -->
- # About me
- 
-<p>
-   <img align="right" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
-        
-   :open_book: &emsp; I'm always looking to improve and learn more. <br/><br/>
-   📧 &emsp; Reach me anytime: tomnikoloff@hotmail.co.uk<br/>
- 
-   When I'm not at my computer, you'll find me:<br/>
-   - :muscle: &emsp; In the gym.<br/>
-   - :dog2: &emsp; Out walking my dog.<br/>
+---
 
-</p>
+# 👋 About Me
 
-<br/>
-<br/>
+<img align="right" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding gif"/>
 
-## Tech Stack
+I'm a full-stack developer based in the UK with 3+ years of experience building scalable, user-focused web applications. I started coding during lockdown, landed my first junior role in 2022, and now lead projects involving both frontend and backend development.
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+- 🛠 Building a new client-facing factfind platform with React, Tailwind CSS & Express.js
+- 💡 Experienced in modular CRMs, dynamic form builders, and real-time data tools
+- 🧗‍♂️ Outdoor junkie: paddleboarding, Jiu-Jitsu, hiking, and dog walks with Lola 🐾
+- 🇨🇭 Currently learning German to reclaim my Swiss citizenship in the future  
+
+---
+
+# 🚀 Featured Projects
+
+### 💼 Custom CRM System
+> A fully custom mortgage & protection CRM, built with modular architecture and iframe-based multitasking. Designed for performance, usability, and fast deployment via local, staging, and live environments.
+
+### 📋 [Lead Form Builder – Charwin Private Clients]
+> Drag-and-drop web form builder with conditionals, logic, Twig templating, and dynamic styling. Powering multiple production websites.
+
+### 🌦️ [React Weather App](https://tom-nikoloff-react-weather.netlify.app/)
+> Real-time forecasts with a clean UI, location search, and toggle between Celsius/Fahrenheit.
+
+### 🏉 [Norfolk Knights Website]
+> GRAV CMS + Zoho Creator-based system allowing a non-technical client to update their site dynamically using Markdown/YAML.
+
+---
+
+## 🛠 Tech Stack
+
+### 🖥️ Frontend
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🔧 Backend & Databases
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🧩 CMS & Misc
+![GRAV CMS](https://img.shields.io/badge/Grav%20CMS-494949?style=for-the-badge&logo=grav&logoColor=white)
+![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+_Thanks for visiting — check out my pinned projects or drop me a message if you’d like to collaborate!_
