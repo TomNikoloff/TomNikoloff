@@ -38,16 +38,21 @@ I'm a full-stack developer based in the UK with 3+ years of experience building 
 
 # 🚀 Featured Projects
 
-### 💼 Custom CRM System
-> A fully custom mortgage & protection CRM, built with modular architecture and iframe-based multitasking. Designed for performance, usability, and fast deployment via local, staging, and live environments.
+### 💼 Custom CRM System – Charwin Private Clients
+> A fully custom mortgage & protection CRM built for [Charwin Private Clients](https://www.charwinprivateclients.co.uk/).  
+> Designed with modular architecture, iframe-based multitasking, and a full local → staging → live deployment pipeline.  
+> Optimised for performance, user productivity, and multi-lead workflows.  
+> 📸 [Screenshots available on my portfolio](https://tomnikoloff.github.io) – source code is private.
 
-### 📋 [Lead Form Builder – Charwin Private Clients]
-> Drag-and-drop web form builder with conditionals, logic, Twig templating, and dynamic styling. Powering multiple production websites.
+### 📋 Lead Form Builder – Charwin Private Clients
+> Internal drag-and-drop form builder developed for [Charwin Private Clients](https://www.charwinprivateclients.co.uk/).  
+> Supports conditional logic, Twig-style templating, dynamic styling, and is used across multiple live sites.  
+> 🔒 This is a private/internal tool and not publicly accessible.
 
 ### 🌦️ [React Weather App](https://tom-nikoloff-react-weather.netlify.app/)
 > Real-time forecasts with a clean UI, location search, and toggle between Celsius/Fahrenheit.
 
-### 🏉 [Norfolk Knights Website]
+### 🏉 [Norfolk Knights Website](https://www.norfolk-knights-wheelchair-rugby.co.uk/)
 > GRAV CMS + Zoho Creator-based system allowing a non-technical client to update their site dynamically using Markdown/YAML.
 
 ---
