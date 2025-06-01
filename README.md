@@ -1,53 +1,61 @@
-# 👋 Hi, I'm Tom Nikoloff
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://tomnikoloff.github.io/">Thomas Nikoloff</a></b>
+        </samp>
+</h3>
 
-I'm a full-stack developer based in the UK with 3+ years of hands-on experience building scalable, user-focused web applications. I started my development journey during lockdown and quickly transitioned from hobbyist to professional. By April 2022, I landed my first dev role and I’ve been all-in ever since.
+<p align="center"> 
+  <samp>
+    「 A design-minded Web Developer focused on building beautiful interfaces & experiences. 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-## 🔧 What I Do
+<p align="center">
+ <a href="https://tomnikoloff.github.io/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+</p>
 
-I work across the full stack but thrive in frontend development. Building intuitive, responsive UIs with clean architecture and thoughtful UX. I lead development on a fully custom CRM system, contribute to API and database layers, and am currently building a new factfind platform using **React**, **Tailwind CSS**, and **Express.js**.
+<!-- About Section -->
+ # About me
+ 
+<p>
+   <img align="right" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+        
+   :open_book: &emsp; I'm always looking to improve and learn more. <br/><br/>
+   📧 &emsp; Reach me anytime: tomnikoloff@hotmail.co.uk<br/>
+ 
+   When I'm not at my computer, you'll find me:<br/>
+   - :muscle: &emsp; In the gym.<br/>
+   - :dog2: &emsp; Out walking my dog.<br/>
 
----
+</p>
 
-## 🛠 Tech Stack
+<br/>
+<br/>
 
-- **Frontend**: React, Tailwind CSS, TypeScript, Styled Components, UIKit  
-- **Backend**: PHP, Express.js, Firebase, SQLite  
-- **Other Tools**: GitHub, Bitbucket, Netlify, GRAV CMS, Zoho Creator  
-- **Practices**: Agile, Modular Architecture, Performance Optimisation
+## Tech Stack
 
----
-
-## 🚀 Notable Projects
-
-### 💼 [Custom CRM System](#)
-> Built from the ground up to outperform existing mortgage & protection CRMs. Modular architecture, iframe-based multitasking, robust staging/live environments, and advanced productivity features. Fully maintained and deployed by me.
-
-### 📋 [Lead Form Builder – Charwin Private Clients](https://www.charwinprivateclients.co.uk/)
-> A drag-and-drop builder to create dynamic web forms with conditionals, variables, and Twig-based templating. Includes visual styling controls and real-time logic manipulation. Used across multiple Charwin sites.
-
-### 🌦️ [React Weather App](https://tom-nikoloff-react-weather.netlify.app/)
-> Global forecast app showing current, 3-hourly, and 5-day weather using open APIs. Includes location search, real-time units toggle, and a polished UI built in React.
-
-### 🏉 [Norfolk Knights Wheelchair Rugby](https://www.norfolk-knights-wheelchair-rugby.co.uk/)
-> Built in GRAV CMS using Markdown + YAML. Paired with a Zoho Creator interface for content management, allowing the client to update their site dynamically without dev intervention.
-
----
-
-## 🌍 About Me
-
-- 🧗 I’m outdoorsy — into mountain hikes, paddleboarding, and Brazilian Jiu-Jitsu
-- 🐾 Have a golden retriever named Lola
-- 🇨🇭 Currently learning German (B1 goal) to reclaim Swiss citizenship
-- 🚀 Always building, learning, and exploring new tools
-
----
-
-## 📫 Connect With Me
-
-- 🌐 [Portfolio](https://tomnikoloff.github.io)  
-- 📧 [tomnikoloff@hotmail.co.uk](mailto:tomnikoloff@hotmail.co.uk)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-nikoloff/)  
-
----
-
-_Thanks for visiting — check out my pinned projects below or reach out if you'd like to collaborate!_
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
