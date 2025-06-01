@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Tom Nikoloff
 
-I'm a full-stack developer based in the UK with 3+ years of hands-on experience building scalable, user-focused web applications. I started my development journey during lockdown and quickly transitioned from hobbyist to professional. By April 2022, I landed my first dev role — and I’ve been all-in ever since.
+I'm a full-stack developer based in the UK with 3+ years of hands-on experience building scalable, user-focused web applications. I started my development journey during lockdown and quickly transitioned from hobbyist to professional. By April 2022, I landed my first dev role and I’ve been all-in ever since.
 
 ## 🔧 What I Do
 
-I work across the full stack but thrive in frontend development — building intuitive, responsive UIs with clean architecture and thoughtful UX. I lead development on a fully custom CRM system, contribute to API and database layers, and am currently building a new factfind platform using **React**, **Tailwind CSS**, and **Express.js**.
+I work across the full stack but thrive in frontend development. Building intuitive, responsive UIs with clean architecture and thoughtful UX. I lead development on a fully custom CRM system, contribute to API and database layers, and am currently building a new factfind platform using **React**, **Tailwind CSS**, and **Express.js**.
 
 ---
 
